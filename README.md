@@ -20,12 +20,27 @@ When grouping the data by manufacturing lot we see the breakdown of the 3 lots. 
 
 ##T-Tests on Suspension Coils
 
-![This is an image]()
+![This is an image](https://github.com/KyHicks/MechaCar_Statistical_Analysis/blob/main/images/t._test_all_%20lots.PNG)
 
-![This is an image]()
+![This is an image](https://github.com/KyHicks/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot1.PNG)
 
-!This is an image]()
+![This is an image](https://github.com/KyHicks/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot2.PNG)
 
-!This is an image]()
+![This is an image](https://github.com/KyHicks/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot3.PNG)
+
+## Study Design: MechaCar vs Competition
+
+Other possible metrics would be of interest to a consumer are costs related to city or highway fuel efficiency and horse power.
+
+* Meterics
+	* Horse power
+	* Fuel typpe
+	* Fuel effeciency
+
+*Hypothesis 
+How does the MechaCar fuel perform against other vehicles based on fuel efficiency and does horse power affect that.
+
+*Statistical test 
+Using a multiple linear regression to see the correlation/predictability of the cost of fuel and how it and if horse power affects that.
 
 
