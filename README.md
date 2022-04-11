@@ -37,10 +37,10 @@ Other possible metrics would be of interest to a consumer are costs related to c
 	* Fuel typpe
 	* Fuel effeciency
 
-*Hypothesis 
+* Hypothesis 
 How does the MechaCar fuel perform against other vehicles based on fuel efficiency and does horse power affect that.
 
-*Statistical test 
+* Statistical test 
 Using a multiple linear regression to see the correlation/predictability of the cost of fuel and how it and if horse power affects that.
 
 
